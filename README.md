@@ -8,7 +8,7 @@ The project focuses on converting raw ecommerce data into meaningful **business 
 
 ## Dashboard Preview
 
-![Ecommerce Sales Dashboard](overview.png)
+![Overview](./Dashboard%20page/overview.jpg)
 
 ---
 
