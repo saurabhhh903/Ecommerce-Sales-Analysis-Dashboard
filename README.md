@@ -84,7 +84,7 @@ Analyzes customer segments and purchasing behavior.
 - Customer Quantity
 - Customer-level performance
 
-![Customer Analysis](Dashboard%20page/Customerse.jpg)
+![Customers](./Dashboard%20page/Customers.jpg)
 
 ---
 
@@ -130,32 +130,6 @@ A dedicated page summarizing the most important findings from the analysis and t
 ## 📁 Repository Structure
 
 ```text
-Ecommerce-Sales-Analysis-Dashboard/
-│
-├── Dashboard page/
-│   ├── Customerse.jpg
-│   ├── Data modeling.jpg
-│   ├── E-Commerce Datasets Dashboard...
-│   ├── Return and Regional.jpg
-│   ├── Store and Regional.jpg
-│   ├── insights.jpg
-│   └── product and profit.jpg
-│
-
-│
-├── Sales Dataset/
-│   ├── Customers.csv
-│   ├── Products.csv
-│   ├── Regions.csv
-│   ├── Returns_1997-1998.csv
-│   ├── Stores.csv
-│   ├── Transactions_1997.csv
-│   └── Transactions_1998.csv
-│
-├── dashboard.png
-├── linkedin.png
-└── README.md
-
 📂 Project Structure
 Ecommerce-Sales-Analysis-Dashboard
 │
