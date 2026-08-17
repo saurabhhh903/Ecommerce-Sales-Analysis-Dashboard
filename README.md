@@ -54,7 +54,7 @@ Provides a high-level view of overall business performance.
 - Profit Margin
 - Return Rate
 
-![Executive Dashboard](dashboard.png)
+![Exclusive dashboard](./Dashboard%20page/overview.jpg)
 
 ---
 
@@ -123,7 +123,7 @@ Analyzes product returns and return trends.
 
 A dedicated page summarizing the most important findings from the analysis and translating them into business recommendations.
 
-![Key Insights](Dashboard%20page/insights.jpg)
+![Insights](./Dashboard%20page/Insights.jpg)
 
 ---
 
@@ -141,9 +141,7 @@ Ecommerce-Sales-Analysis-Dashboard/
 │   ├── insights.jpg
 │   └── product and profit.jpg
 │
-├── Image/
-│   ├── dashboard.png
-│   └── linkedin.png
+
 │
 ├── Sales Dataset/
 │   ├── Customers.csv
@@ -158,5 +156,31 @@ Ecommerce-Sales-Analysis-Dashboard/
 ├── linkedin.png
 └── README.md
 
+📂 Project Structure
+Ecommerce-Sales-Analysis-Dashboard
+│
+├── Dashboard page
+│   ├── overview.jpg
+│   ├── Customers.jpg
+│   ├── Data modeling.jpg
+│   ├── Insights.jpg
+│   ├── Return and Regional.jpg
+│   ├── Store and Regional.jpg
+│   └── product and profit.jpg
+│
+├── Image/
+│   ├── dashboard.png
+│   └── linkedin.png
+|
+├── Sales Dataset
+│   ├── Customers.csv
+│   ├── Products.csv
+│   ├── Regions.csv
+│   ├── Returns_1997-1998.csv
+│   ├── Stores.csv
+│   ├── Transactions_1997.csv
+│   └── Transactions_1998.csv
+│
+└── README.md
 
 ⭐ If you found this project helpful, consider giving it a Star!
